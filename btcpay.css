@@ -1,0 +1,13 @@
+.top-header .timer-row {
+    background: rgb(155 116 14) !important; 
+}
+.payment-tabs__tab.active {
+    border-bottom: 3px solid rgb(155 116 14) !important; 
+}
+.separatorGem {
+    background: rgb(155 116 14) !important ;
+}
+.top-header .header__icon {
+    margin-left: auto;
+    margin-right: auto;
+}
